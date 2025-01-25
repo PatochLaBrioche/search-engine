@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Résultats de recherche</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>    
+</head>
+<body class="result_body">
+    <div class="titles text-center">
+        <h1>Résultats de la recherche</h1>
+    </div>
+    <hr>
+    <div class="search_result container mt-4">
+        {% if details_series %}
+            <div class="row">
+                {% for serie in details_series %}
+                    <div class="col-md-4 mb-4">
+                        <div class="card">
+                            <img src="{{ serie.poster }}" class="card-img-top" alt="Affiche de {{ serie.title }}">
+                            <div class="card-body">
+                                <h5 class="card-title">{{ serie.title }}</h5>
+                                <p class="card-text"><strong>Genre :</strong> {{ serie.genre_ids }}</p>
+                                <p class="card-text"><strong>Synopsis :</strong> {{ serie.overview }}</p>
+                                <p class="card-text"><strong>Sortie :</strong> {{ serie.release_date }}</p>
+                                <p class="card-text"><strong>Classification :</strong> {{ serie.vote_average }}</p>
+                                <p class="card-text"><strong>Metascore :</strong> {{ serie.popularity }}</p>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <p>Aucune série trouvée pour cette recherche. Essayez de reformuler votre requête.</p>
+        {% endif %}
+    </div>
+    <div class="home_button text-center mt-4">
+        <a href="/" class="btn btn-primary">Retour à la page d'accueil</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Résultats de recherche</title>
+</head>
+<body>
+    <h1>Résultats de la recherche</h1>
+    {% if details_series %}
+        <ul>
+            {% for item in details_series %}
+                <li>
+                    <h2>{{ item['Titre'] }}</h2>
+                    <p><strong>Année :</strong> {{ item['Année'] }}</p>
+                    <p><strong>Genre :</strong> {{ item['Genre'] }}</p>
+                    <p><strong>Réalisateur :</strong> {{ item['Réalisateur'] }}</p>
+                    <p><strong>Acteurs :</strong> {{ item['Acteurs'] }}</p>
+                    <p><strong>Résumé :</strong> {{ item['Résumé'] }}</p>
+                    <p><strong>Note IMDB :</strong> {{ item['Note IMDB'] }}</p>
+                    <p><strong>Score de similarité :</strong> {{ item['Score'] }}</p>
+                    <img src="{{ item['Affiche'] }}" alt="Affiche de la série {{ item['Titre'] }}">
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>Aucune série trouvée pour cette recherche.</p>
+    {% endif %}
+    <a href="/">Retour à la page d'accueil</a>
+</body>
+</html>

@@ -1,0 +1,17 @@
+services:
+  app:
+    build:
+      context: ..
+      dockerfile: config/Dockerfile  # Le Dockerfile est dans le dossier config
+    image: search_engine
+    container_name: search_engine_container
+    ports:
+      - "5000:5000"
+    volumes:
+      - ..:/app  # Monte tout le répertoire du projet dans le conteneur
+    environment:
+      - FLASK_APP=app.__init__.py  # Fichier principal pour Flask
+      - FLASK_RUN_HOST=0.0.0.0    # Permet d'accepter les connexions externes
+      - FLASK_ENV=development      # Mode développement pour Flask
+      - OMDB_API_KEY=9a883ce3     # Clé API pour OMDB (exemple)
+    tty: true

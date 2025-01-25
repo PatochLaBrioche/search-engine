@@ -1,0 +1,1341 @@
+[
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/fepgcKaWyECivTItjdGM205MP5y.jpg",
+        "title": "Numéro 24",
+        "genre_ids": [
+            10752,
+            36,
+            18
+        ],
+        "overview": "À l'aube de la Seconde Guerre mondiale, la détermination d'un jeune Norvégien à résister aux nazis change la donne pour son avenir et celui de son pays.",
+        "release_date": "2024-10-30",
+        "vote_average": 7.3,
+        "popularity": 688.49
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/jirUD0z8r28tN89bKiiorEzID5i.jpg",
+        "title": "Les dessous de Beverly Hills, 90210",
+        "genre_ids": [
+            10770,
+            18
+        ],
+        "overview": "Voici comment est née la série Beverly Hills. Depuis l’idée novatrice de Darren Star l’auteur, la force de conviction d'Aaron Spelling le producteur, en passant par le choix des acteurs, le tournage des premiers épisodes et enfin, le succès planétaire.",
+        "release_date": "2015-10-03",
+        "vote_average": 4.9,
+        "popularity": 2.843
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/hLQhyMztPo6k202kVKvFDi3uRPC.jpg",
+        "title": "Alias",
+        "genre_ids": [
+            18,
+            27,
+            53,
+            10749
+        ],
+        "overview": "Eva accidentally witnesses (and tapes) the suicide of a girl.  The tape is stolen but retrieved by Dieter, with whom she starts an affair.",
+        "release_date": "2002-02-13",
+        "vote_average": 4.1,
+        "popularity": 1.711
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/xGEd9xaoTLfolyaYi3GXtWutHgI.jpg",
+        "title": "Angel",
+        "genre_ids": [
+            28,
+            80,
+            27
+        ],
+        "overview": "Charmante lycéenne obtenant de brillants résultats scolaires le jour, Molly Stewart devient la nuit une prostituée dans les bas-fonds d'Hollywwod. Dans ce cadre terrifiant, l'horreur va encore monter d'un cran quand un maniaque assassinera sauvagement la meilleure amie d'Angel. Celle-ci maintenant armée, va le traquer sans relâche...",
+        "release_date": "1984-04-19",
+        "vote_average": 5.946,
+        "popularity": 15.37
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/tO3EoFJj0FJjKelDW5SUtquDIy2.jpg",
+        "title": "Battlestar Galactica : Razor",
+        "genre_ids": [
+            878,
+            28,
+            18,
+            53,
+            10770
+        ],
+        "overview": "Le film se concentre sur l'histoire du Battlestar Pegasus, il se passe juste après la promotion de Lee Adama en tant que commandant du Battlestar Pegasus (saison 2, épisode 17, \"Une main de fer\"), de fréquents flashbacks montrent les événements vus du Pegasus entre l'attaque des Cylons et le présent, deux flashbacks montrent des événements de la première guerre contre les Cylons (un sur l'amiral Helena Cain, fuyant l'attaque des Cylons sur Tauron alors que sa petite sœur était tuée par les machines, un autre sur la découverte d'un centre de recherche Cylon visant à fabriquer un hybride cylon/humain).",
+        "release_date": "2007-11-12",
+        "vote_average": 7.137,
+        "popularity": 14.744
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/cQAWVqEUxFi71Fr9J4FSt9jxqdB.jpg",
+        "title": "L'Espion bionique",
+        "genre_ids": [
+            28,
+            878,
+            10770
+        ],
+        "overview": "Steve Austin et Jaimie Sommers, les deux agents américains aux capacités physiques extraordinaires, utilisent leurs implants bioniques pour accomplir des missions très spéciales. Lorsque le siège de l'’O.S.I., leur agence, est attaqué par un agent ennemi, doté lui aussi d'aptitudes décuplés, ils tentent de sauver Oscar Goldman, leur supérieur hiérarchique, dont la vie est menacée. Kate Mason, une nouvelle recrue dotée également d’incroyables possibilités, traque quand à elle, Allan Devlin, une taupe infiltrée dans l'organisation. Celui-ci projette d'assassiner le Ministre des affaires étrangères et le Premier Ministre soviétique…...",
+        "release_date": "1989-04-30",
+        "vote_average": 6.711,
+        "popularity": 7.377
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/pFCZwMEkPaWpjBfZ5tiZWxHTo8I.jpg",
+        "title": "Blade",
+        "genre_ids": [
+            27,
+            28
+        ],
+        "overview": "Mi-homme mi-vampire, possédant toutes les qualités des goules et aucune de leur faiblesse, capable de vivre en plein jour, Blade traque sans pitié les suceurs de sang. Aidé de Whistler, son mentor et armurier, il est le cauchemar de la Nation Secrète des Vampires, dont les membres infiltrent toutes les couches de la société. L'un d'eux, Deacon Frost, avide de pouvoir, souhaite asservir le monde et la race humaine en invoquant le Dieu du sang. Un seul homme peut se mettre en travers de son chemin : Blade...",
+        "release_date": "1998-08-21",
+        "vote_average": 6.808,
+        "popularity": 66.782
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/f1ezteDonmwZZUBboE1Ll4sf5uu.jpg",
+        "title": "Blood Ties",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "overview": "New York, 1974. Chris, la cinquantaine, est libéré pour bonne conduite après plusieurs années de prison pour un règlement de compte meurtrier. Devant la prison, Frank, son jeune frère, un flic prometteur, est là, à contrecœur. Ce ne sont pas seulement des choix de « carrières » qui ont séparé Chris et Frank, mais bien des choix de vies et une rivalité depuis l’enfance. Leur père Léon, qui les a élevés seul, a toujours eu pour Chris une préférence affichée, malgré les casses, la prison… Pourtant, Frank espère que son frère a changé et veut lui donner sa chance : il le loge, lui trouve un travail, l’aide à renouer avec ses enfants et son ex-femme, Monica. Malgré ces tentatives, Chris est vite rattrapé par son passé et replonge. Pour Frank, c’est la dernière des trahisons, il ne fera plus rien pour Chris. Mais c'est déjà trop tard et le destin des deux frères restera lié à jamais.",
+        "release_date": "2013-08-22",
+        "vote_average": 6.103,
+        "popularity": 21.319
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/7UOHEPTQMaiwaI14CGxd5yFAPMZ.jpg",
+        "title": "Bones",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "overview": "A la fin des années 70, Jimmy Bones, parrain du ghetto black, est brutalement assassiné et la maison dans laquelle il a été éliminé devient une bâtisse maudite générant les plus sombres rumeurs. Vingt ans après, bravant les avertissements, une bande de jeunes rachète la demeure afin d'y ouvrir une boîte de nuit. Mais le fantôme de Bones resurgit des enfers pour accomplir sa vengeance…",
+        "release_date": "2001-10-24",
+        "vote_average": 4.8,
+        "popularity": 10.108
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/vGmDs7qGOgST23o9hKwiyGd6WeW.jpg",
+        "title": "El Camino : Un film \"Breaking Bad\"",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "overview": "À la suite de sa tragique évasion, Jesse doit accepter son passé s’il veut se reconstruire un avenir…  ou quelque chose qui s'en rapproche.",
+        "release_date": "2019-10-11",
+        "vote_average": 6.962,
+        "popularity": 47.312
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "title": "Buffy",
+        "genre_ids": [
+            99
+        ],
+        "overview": "Folk music icon Buffy Sainte-Marie became internationally renowned with her protest song \"Universal Soldier.\" In this short documentary, she candidly discusses her hopes, creative vision and songwriting skills, as well as her role as an Aboriginal activist. Still a vibrant artist fifty years into her career, she keeps her eyes set on the future.",
+        "release_date": "2010-09-01",
+        "vote_average": 7.0,
+        "popularity": 0.271
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/wgQuP4qrsjw4kNgR3sYQeaCNllm.jpg",
+        "title": "Sam Axe, La dernière Mission",
+        "genre_ids": [
+            35,
+            80,
+            9648,
+            28,
+            18,
+            53
+        ],
+        "overview": "L'histoire commence en 2005, en Colombie, où le Lieutenant-Commandant Sam Axe est envoyé pour conseiller un peloton militaire local. Mais il découvre rapidement toute une série de mensonges et manipulations qui lui font penser qu'il n'est peut-être pas du bon côté...",
+        "release_date": "2011-04-17",
+        "vote_average": 6.5,
+        "popularity": 6.42
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/aOsnpxXZydytZ3Bll64ovQK52qv.jpg",
+        "title": "Official Californication Parody",
+        "genre_ids": [],
+        "overview": "Television's naughtiest sex addict just got a little sexier. Hank Moody can't keep his pants on literally through most of this hilariously wicked send-up of the hit show about a washed up writer whose libido gets in the way of his career. As if dealing with his teenage daughter and her friend blowing some guy in the next room weren't enough, Hank also has to put up with his ex-wife and her new boyfriend, not to mention his horny book agent who wants him to ghostwrite the memoir of a 25 year old porn star. But when Hank goes to the porn star's party, the 'meet and greet' takes on a whole new meaning, and Hank finds himself taking the job along with the perks.",
+        "release_date": "2011-01-05",
+        "vote_average": 7.0,
+        "popularity": 0.0
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/ow10rzH8GQ6eXmcgmKBuybeA7GE.jpg",
+        "title": "Charmed",
+        "genre_ids": [],
+        "overview": "Have you ever wished you had a little something to attract the guys you really wanted? An aphrodisiac cologne, a magic potion, or Cupid's Arrows? Well, true to our theme, Brandon show you how much fun you could have when he finds a Snake Charmer's flute and charms the pants off the boyz he meets. These eight smooth Cobraboyz really turn up the heat and whether they are indoors or out, the action is very passionate and real. Now things aren't always what they seem, and the ending will suprise you, but I guess you'll just have to see it for yourself.",
+        "release_date": "2004-06-23",
+        "vote_average": 0.0,
+        "popularity": 0.0
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/1nC0pSzmH12Qea0DTlEdDxENYD7.jpg",
+        "title": "Outsider",
+        "genre_ids": [
+            18
+        ],
+        "overview": "L'histoire vraie de Chuck Wepner, négociant en alcools du New Jersey, qui a tenu 15 rounds contre le plus grand boxeur de tous les temps, Mohammed Ali, lors du championnat du monde poids lourds en 1975, avant de finalement s'incliner par K.O. technique. Durant les dix années où il a été boxeur, celui que l'on surnommait \"Bayonne Bleeder\" a eu 8 fois le nez cassé, a connu 14 défaites, deux K.O., un total de 313 points de suture... et a inspiré le personnage de Rocky Balboa dans la franchise au succès planètaire Rocky.",
+        "release_date": "2017-05-05",
+        "vote_average": 6.264,
+        "popularity": 12.864
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/x6Vw8sPXv51qrtd6lek9h2svM7M.jpg",
+        "title": "Cold case à l'ONU",
+        "genre_ids": [
+            99,
+            36
+        ],
+        "overview": "Ndola, Rhodésie du Nord (actuelle Zambie), 18 septembre 1961. L'économiste et diplomate suédois Dag Hammarskjöld, secrétaire général de l'ONU, meurt mystérieusement dans un accident d'avion. Des décennies plus tard, le journaliste et cinéaste danois Mads Brügger et le chercheur suédois Göran Björkdahl enquêtent sur l'affaire pour tenter de la classer définitivement.",
+        "release_date": "2019-02-07",
+        "vote_average": 6.7,
+        "popularity": 8.092
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "title": "Community",
+        "genre_ids": [
+            18
+        ],
+        "overview": "In London, a young Romanian couple's relationship suffers due to their poor sleeping conditions.",
+        "release_date": "",
+        "vote_average": 0.0,
+        "popularity": 0.001
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/oSvgY40NhBm3YHjY4tmL9TbZifP.jpg",
+        "title": "Criminal Mind",
+        "genre_ids": [
+            80
+        ],
+        "overview": "Famous models and actresses are being kidnapped by a psycho, who subjects them to an entire range of sexual abuse. When supermodel Edelweiss falls into his hands, the models' agency hires a private detective to find and free her.",
+        "release_date": "2007-01-01",
+        "vote_average": 0.0,
+        "popularity": 0.0
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/vVr71Hwjpo8ziJcbe0enKIOn1vk.jpg",
+        "title": "L'Agence Cupidon",
+        "genre_ids": [
+            10749,
+            35,
+            10770
+        ],
+        "overview": "À l'approche de la Saint-Valentin, Ève est en pleine crise sentimentale. Animatrice d'un show télévisé, la jeune femme consacre son temps à sa carrière. C'est alors qu'un faux conseiller en amour lui propose un défi : si elle parvient à réunir un couple pour la Saint-Valentin, elle rencontrera son grand amour...",
+        "release_date": "2012-09-30",
+        "vote_average": 5.5,
+        "popularity": 3.88
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/l2G8L4Dg6PsYLU8OurDWQT390Df.jpg",
+        "title": "Daybreak",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "overview": "A Los Angeles, un tremblement de terre provoque un énorme accident de métro qui se heurte à un tunnel effondré dans les sous-terrains de la ville. Quelques survivants se regroupent afin de sortir des décombres; mais bientôt, de nouvelles secousses se font ressentir...",
+        "release_date": "2000-12-19",
+        "vote_average": 4.8,
+        "popularity": 2.668
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/pfaeVzK1RijXtWxzny4a33PWT2Y.jpg",
+        "title": "Les Démons d'argile",
+        "genre_ids": [
+            16,
+            18,
+            14
+        ],
+        "overview": "La vie de Rosa, une professionnelle très appréciée, est bouleversée par la mort de son grand-père Marcelino.",
+        "release_date": "2022-09-21",
+        "vote_average": 5.3,
+        "popularity": 65.426
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/sowFrPiVbI3YTMRl8yxhiySDTZV.jpg",
+        "title": "Desperate Housewives",
+        "genre_ids": [],
+        "overview": "Hot Blonde Babe Obtient Une Grosse Bite Dure, Hot Blonde Babe séduit son homme, Lapin blonde aux gros seins aime se faire défoncer la bite, Hot Blonde baise son homme à l'extérieur.",
+        "release_date": "2019-07-27",
+        "vote_average": 0.0,
+        "popularity": 0.0
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/6jLbZlzNOfHQgD0a1wgtBuscriZ.jpg",
+        "title": "Dexter",
+        "genre_ids": [
+            53
+        ],
+        "overview": "Aadi and Yamini`s love story takes a tragic turn when Yamini is kidnapped and brutally murdered, plunging Aadi into despair. Struggling with PTSD, he undergoes a memory-erasing treatment and starts anew, reuniting with his childhood friend Bhuvi. However, their lives are upended when Bhuvi`s family is taken hostage by a dangerous man named Sadhik. In a tense showdown, Sadhik traps Aadi, Bhuvi, and others in a deadly game, revealing the dark motives behind a string of murders, including Yamini`s. Will Aadi uncover the truth and find redemption amidst the chaos?",
+        "release_date": "",
+        "vote_average": 0.0,
+        "popularity": 0.91
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/pqKw2974z3NNKHlBOrgQCMg5usT.jpg",
+        "title": "Dirt",
+        "genre_ids": [
+            18,
+            28
+        ],
+        "overview": "Dez Truss, 17 ans, est arrêté alors qu'il vole des voitures. Un mentor compatissant lui donne une dernière chance en lui présentant Rick Radden, un ancien pilote de voitures de course, qui accepte de prendre le jeune sous son aile.",
+        "release_date": "2018-03-07",
+        "vote_average": 5.986,
+        "popularity": 7.482
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/cwae2p7JcRNtz1CvNCzpX5ad96V.jpg",
+        "title": "Doctor Who : Le Seigneur du temps",
+        "genre_ids": [
+            10770,
+            12,
+            878
+        ],
+        "overview": "Condamné à être exécuté par les Daleks, le Maître émet une dernière volonté : revenir sur sa planète, Gallifrey, en compagnie de son ennemi de toujours, le Docteur. Mais un accident lors du voyage les oblige à atterrir de toute urgence sur Terre...",
+        "release_date": "1996-05-12",
+        "vote_average": 6.2,
+        "popularity": 13.429
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/xGN1ckiaEawcyIbI3oQrC8DgoFQ.jpg",
+        "title": "Dollhouse",
+        "genre_ids": [
+            18
+        ],
+        "overview": "Five street teens break into a house in a rich Dublin suburb for a night of partying. But games are twisted into something more emotional and ultimately out of control through a series of surprising revelations.",
+        "release_date": "2012-03-10",
+        "vote_average": 4.773,
+        "popularity": 1.638
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/j6gBU6gd0hHKG6J5tea6FDR9r2u.jpg",
+        "title": "Superman : La Onzième Heure",
+        "genre_ids": [
+            16,
+            28,
+            12,
+            10751,
+            14,
+            878,
+            10752
+        ],
+        "overview": "Utilisant Clark Kent comme couverture, Superman se rend au Japon comme saboteur pendant la guerre.",
+        "release_date": "1942-11-20",
+        "vote_average": 6.0,
+        "popularity": 2.854
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/28dqsx1jCxhR05DfH35ui13ywNZ.jpg",
+        "title": "Entourage",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "overview": "Star hollywoodienne, Vincent Chase et ses potes, Eric, Turtle et Johnny, sont de nouveau dans la course, et en pleine négociation avec Ari Gold, ancien agent devenu patron de studio. Si leurs ambitions ont un peu évolué, les liens qui les unissent sont toujours aussi forts. Tant mieux car ils vont devoir se frayer un chemin dans le monde impitoyable d'Hollywood…",
+        "release_date": "2015-06-03",
+        "vote_average": 6.232,
+        "popularity": 31.154
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/ijDFqoJE4CQw2jpRT5RVExJ82IX.jpg",
+        "title": "Eureka",
+        "genre_ids": [
+            18
+        ],
+        "overview": "Règlements de compte, meurtres et rites vaudous autour de la propriété d'un puissant milliardaire.",
+        "release_date": "1983-05-01",
+        "vote_average": 5.2,
+        "popularity": 8.11
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/hrvWcYAh0BFdDa6tU4dVuvpfSre.jpg",
+        "title": "Extras",
+        "genre_ids": [
+            35
+        ],
+        "overview": "EXT. JOUR - Dimanche matin ensoleillé sur la terrasse d’un café : Isabelle, une actrice en creux de carrière, rencontre Johanne, son agente, qui a un rôle à lui proposer dans un nouveau projet. À la table et aux alentours, la tension monte.",
+        "release_date": "2024-03-20",
+        "vote_average": 0.0,
+        "popularity": 0.653
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/78tju8bj08V8F0Wg0YDYznOWjHA.jpg",
+        "title": "Fear Itself",
+        "genre_ids": [
+            9648,
+            99,
+            27
+        ],
+        "overview": "Composé uniquement d’extraits provenant de 82 films, Fear Itself est une invitation à une expérience unique et une vaste réflexion sur la peur. Plaquant sur des images pré-existantes le récit personnel d’Amy E. Watson, le film mêle, par un brillant effet de miroir, l’expérience individuelle à celle collective créée par le cinéma de genre, et questionne comment il s’est nourri autant qu’il a nourri nos peurs les plus intimes. En collectant des images loin d’être les plus connues, le film est un vrai bonheur pour les cinéphiles.",
+        "release_date": "2015-10-18",
+        "vote_average": 6.1,
+        "popularity": 1.043
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/4w0aU3yRn462GSmL0dTSD9yAdpB.jpg",
+        "title": "Flash-Forward",
+        "genre_ids": [
+            99,
+            18
+        ],
+        "overview": "A group of friends embark on a magical journey through amazing nature to meet a poet who has spent a lifetime in prison for his poems. It’s a journey where reality and imagination merge…",
+        "release_date": "",
+        "vote_average": 0.0,
+        "popularity": 0.179
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/xAMzujbmShAG6W13z71ov5wnfTA.jpg",
+        "title": "Flashpoint",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            9648,
+            53
+        ],
+        "overview": "Bobby Logan et Ernie Wyatt, deux gardes-frontière texans sur le point de perdre leur emploi trouvent une Jeep des années 1960 incinérée dans le désert et contenant un squelette humain, un fusil à lunette et 800 000 dollars en espèce. Les deux hommes décident de garder l'argent et de rechercher tout de même des informations sur cette étrange véhicule. Le FBI est alerté et débarque sur les lieux : Il se pourrait que la mystérieuse Jeep ait un lien avec l'assassinat de John F. Kennedy. Mais les fédéraux essaient d'étouffer l'affaire, et d'éliminer quiconque ayant un lien avec cette Jeep.",
+        "release_date": "1984-04-19",
+        "vote_average": 6.234,
+        "popularity": 9.939
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/m3lJEwPM8i2oFjwNaGyc0PFrzUz.jpg",
+        "title": "Flight of the Conchords: Live in London",
+        "genre_ids": [
+            35,
+            10402
+        ],
+        "overview": "Sur la mythique scène de l'Apollo de Londres, Jemaine Clement et Bret McKenzie enchainent leurs compositions de manière décalée. Les bons mots pullulent dans leurs textes loufoques.",
+        "release_date": "2018-10-06",
+        "vote_average": 7.3,
+        "popularity": 3.574
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/xm2XDn7ruUllHuVDhJuO58zko93.jpg",
+        "title": "Friday Night Lights",
+        "genre_ids": [
+            18
+        ],
+        "overview": "Friday Night Lights relate les aventures d'une courageuse équipe d'amis, les Permian High Panthers, l'équipe du football américain qui a connu le plus grand succès de l'histoire du Texas. Pour les jeunes hommes de l'équipe, chaque match est une chance de transcender leur petite ville et leur rêve éphémère de gloire sur le terrain, dont l'apogée doit être atteint avant qu'ils n'aient 18ans. Le film dépeint un portrait fort d'Odessa et de ces autres villes aux Etats-unis, où une fois par semaine en automne, la ville et ses espoirs prennent vie sous les projecteurs éblouissants du vendredi soir.",
+        "release_date": "2004-10-08",
+        "vote_average": 6.907,
+        "popularity": 15.351
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/s7YLtazr7adX2YVqhHYSOeZt0qb.jpg",
+        "title": "Friends",
+        "genre_ids": [
+            10751,
+            18,
+            35
+        ],
+        "overview": "A man values his best friend more than anything else in the world. One day he confesses a dark secret from their childhood to his wife, which is overheard by another. Once the secret gets out, the friendship is destroyed.",
+        "release_date": "2001-01-14",
+        "vote_average": 6.7,
+        "popularity": 5.182
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/7hxjLONU0Wjv67EOOqknoMlnqzf.jpg",
+        "title": "Fringe",
+        "genre_ids": [
+            53
+        ],
+        "overview": "Its 9'o Clock, and I'm floating in that pool, in Fringe, Nevada - A place where the revolving of the reds and blacks makes every day seem the same as the last. Though some day you may break the pattern - if you're lucky enough to get out.  An experimental thriller by Furrhead Productions.",
+        "release_date": "2022-09-24",
+        "vote_average": 4.0,
+        "popularity": 0.67
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/mHu4Ucns0FBQt1H2hMyQQ75ZRpI.jpg",
+        "title": "Futurama : Le Monstre au milliard de tentacules",
+        "genre_ids": [
+            16,
+            35,
+            878,
+            10770
+        ],
+        "overview": "Un mois après qu’une faille a déchiré l'univers, l’équipe de Planet Express doit trouver un moyen d’y remédier. Mais c'est alors qu'ils découvrent que cette faille n’est autre qu’un passage vers un autre univers où vit une créature gigantesque et tentaculaire du nom de Yivo. Rapidement, la créature envahit la Terre et prend le contrôle de ses habitants avant de faire de Fry, le messie d’une nouvelle religion, dans le but de guider les humains vers un pseudo-paradis situé dans un autre univers, laissant les robots pour seuls héritiers de la Terre.",
+        "release_date": "2008-06-30",
+        "vote_average": 6.97,
+        "popularity": 16.588
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/A8H6cStSLYkePVQ4Extoz220a4i.jpg",
+        "title": "The Erotic Ghost Whisperer",
+        "genre_ids": [
+            14,
+            27
+        ],
+        "overview": "Communicating with earthbound spirits is one thing. Having sex with them is another. There are ghosts who cling to the living because they have unfinished business. There are also ghosts who cling on to other things. Join our sexy star. She is a medium but not in a bra size. This story provides a great back drop to many hot sex scenes. The girls are beautiful and the sex scintillating.",
+        "release_date": "2008-07-01",
+        "vote_average": 0.0,
+        "popularity": 0.0
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/6zQgRxw96IjjJMyzWDj4ihJ5kRD.jpg",
+        "title": "Gossip Girl",
+        "genre_ids": [
+            10749
+        ],
+        "overview": "Seong-won used to be an entertainer back in the day, but now he's a novelist, and he moves to a countryside house with his wife for peace and quiet.  Whilst cleaning out the workroom, he finds some strange items and becomes curious. Yeon-seo goes to work and Seong-won returns to the attic to find a disconnected videocassette recorder, which he reconnects.  Just then, the bell rings and the woman next door, Do-hee, brings him some homemade bread. He's not interested in this woman who recognizes him, but he can't help but be bothered by her strange actions.  When she leaves, Seong-won watches the video and is surprised to see Do-hee on there, being whipped. Do-hee keeps coming back to the house to seduce Seong-won even when Yeon-seo is around...",
+        "release_date": "2019-12-27",
+        "vote_average": 7.0,
+        "popularity": 9.679
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/mubEQSo5lUe7lJl2P6wCHzlTkRM.jpg",
+        "title": "American trip",
+        "genre_ids": [
+            12,
+            35,
+            10402
+        ],
+        "overview": "Aaron Greenberg est du genre à prendre les choses en main et à résoudre les problèmes. Cet ambitieux stagiaire de 23 ans s’est habilement immiscé dans le job de ses rêves juste à temps pour se voir confier la mission qui pourrait bien déterminer tout son avenir professionnel : il doit se rendre à Londres et ramener un des dieux du rock au Greek Theatre de Los Angeles, à temps pour le concert de lancement d’une tournée au budget astronomique. Une seule mise en garde : s’il le quitte du regard, c’est à ses risques et périls.",
+        "release_date": "2010-06-03",
+        "vote_average": 5.98,
+        "popularity": 18.652
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/yO6TrR3doSLwJShGynoQlH4taVJ.jpg",
+        "title": "Sasha Grey's Anatomy",
+        "genre_ids": [],
+        "overview": "Sasha Grey’s Anatomy is a medical and mental health-themed sex fest taking place at the San Fernando Valley’s Center for Sexual Dysfunctions and where the characters tend to the kinky eccentricities of both their patients and each other.",
+        "release_date": "2008-06-03",
+        "vote_average": 5.8,
+        "popularity": 0.0
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/PHuDLdPFhqPU4pkQ4A2MNAatDH.jpg",
+        "title": "Heros",
+        "genre_ids": [
+            18,
+            10749,
+            10752
+        ],
+        "overview": "Un ancien combattant du Vietnam souffrant du syndrome de stress post-traumatique éclate d'un hôpital VA et se poursuit un voyage avec un voyageur sympathique pour savoir ce qui est advenu des autres hommes de son unité.",
+        "release_date": "1977-11-04",
+        "vote_average": 6.3,
+        "popularity": 5.045
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/1rTymkR82RR6PKtiLvK9Gvp7FH8.jpg",
+        "title": "House",
+        "genre_ids": [
+            35,
+            27,
+            14
+        ],
+        "overview": "Auteur de romans d'horreur et vétéran de la Guerre du Vietnam, Roger Cobb s'installe dans un vieille demeure léguée par sa tante. Mais il est très vite poursuivi par armée de fantômes dirigé par Ben, un ancien du Vietnam abandonné par Roger.",
+        "release_date": "1985-12-06",
+        "vote_average": 6.2,
+        "popularity": 19.885
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "title": "This Isn't... How I Met Your Mother... It's a XXX Spoof!",
+        "genre_ids": [],
+        "overview": "Your mom always looks so prim and proper; people might think we met at a Sunday picnic in the park. But when I met her things were a little nastier. It was a rip-roaring Gang Bang with a roomful of the biggest cocks I'd ever seen, and your mom was taking every one of them, and taking them in every hole, three at a time! And when she was finally done, she was covered in cum! Now, that's really how we met!\"",
+        "release_date": "2011-10-27",
+        "vote_average": 0.0,
+        "popularity": 0.0
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "title": "Non-Consensual Act (in progress). First Treatment",
+        "genre_ids": [],
+        "overview": "After a visit to the Afghan Film Archive in 2012, Goshka Macuga acquired a series of 35mm cut-offs, sent to her via post. Surprisingly they consisted of 19 separate film rolls of censored violent and sexually explicit scenes. Non-Consensual Act (in progress) proposes to re-edit and recontextualise this material and in doing so it reflects on the representation of intimacy, violence, and gender discrimination and its cultural significances.",
+        "release_date": "2013-06-14",
+        "vote_average": 0.0,
+        "popularity": 0.004
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/poZZC9PNg554tLA4nJWvc3gYIaJ.jpg",
+        "title": "Invasión",
+        "genre_ids": [
+            878,
+            18
+        ],
+        "overview": "Three stories intertwine to form a vision of war in a narrative kaleidoscope that transcends space and time. The seven characters of the play will face their own internal enemies and find the only way to escape in love.",
+        "release_date": "2024-06-28",
+        "vote_average": 7.0,
+        "popularity": 29.025
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/dZqlRhJBcuHNQgoxC8phKgWC6W8.jpg",
+        "title": "Jake Paul vs. Mike Tyson",
+        "genre_ids": [
+            28
+        ],
+        "overview": "Jake Paul affronte Mike Tyson dans un combat de boxe diffusé en direct et en cinq langues depuis l'AT&T Stadium d'Arlington, au Texas. Un événement exceptionnel à ne pas manquer !",
+        "release_date": "2024-11-15",
+        "vote_average": 6.5,
+        "popularity": 107.956
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/fBZ28T4V2Xjb3hK5DE3fzmvOi06.jpg",
+        "title": "Jekyll",
+        "genre_ids": [
+            18,
+            27
+        ],
+        "overview": "The only living descendant of Dr. Jekyll and Mr. Hyde makes a deal with the dark side.",
+        "release_date": "",
+        "vote_average": 0.0,
+        "popularity": 0.515
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/jIImxNJL7WEU9F5fsz9xS0FGYar.jpg",
+        "title": "Jericho",
+        "genre_ids": [
+            12,
+            18
+        ],
+        "overview": "An unjustly condemned corporal flees to Africa, chased by the captain blamed for his escape.",
+        "release_date": "1937-08-23",
+        "vote_average": 5.8,
+        "popularity": 1.058
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/sql7cgWR0L6C1Er7tSvuzJUS5ST.jpg",
+        "title": "Le Retour de K2000",
+        "genre_ids": [
+            878,
+            10770
+        ],
+        "overview": "L'histoire de Mike Traceur, le fils caché de Michael Knight. Recruté par son amie d'enfance Sarah Graiman et son père, le physicien Charles Graiman, il rejoint la Fondation Knight, destinée à lutter contre le crime. Charles est l'inventeur de la nouvelle génération de KITT (acronyme de Knight Industries Two Thousand), une voiture dotée de l'intelligence artificielle. Un jour, un dangereux millionnaire approche Charles pour obtenir un modèle de son extraordinaire invention mais ce dernier refuse. Un homme de main est alors chargé de voler KITT et de tuer le père de Sarah…",
+        "release_date": "2008-02-17",
+        "vote_average": 6.4,
+        "popularity": 11.72
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/lBcbzyurfo1vaoq9nSjz52xdsre.jpg",
+        "title": "The Legend of Muye: Tomb Seeking Master",
+        "genre_ids": [
+            14,
+            12,
+            28
+        ],
+        "overview": "Pendant la période de la République de Chine, les descendants reclus de Guanshan Taibao ont reçu l'ordre d'enquêter sur une affaire et de résoudre le mystère des \"neuf pavillons\" de l'ancien palais de Qianji cachés sous le désastre minier.",
+        "release_date": "2021-10-06",
+        "vote_average": 6.0,
+        "popularity": 4.229
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/bYzflTUc8gAtWWw4hbqMXunjpyt.jpg",
+        "title": "Leverage",
+        "genre_ids": [
+            28,
+            35
+        ],
+        "overview": "Jade Betts and her sidekick Richie must infiltrate the Russian mob's Christmas party and fight their way through the ranks, using festive weapons and witty one-liners, to preserve what's most important to her.",
+        "release_date": "2023-10-31",
+        "vote_average": 10.0,
+        "popularity": 0.815
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/3BIdgd9qK8Le3rnRZWj5qWaddry.jpg",
+        "title": "Lie to Me",
+        "genre_ids": [
+            35,
+            18,
+            10749
+        ],
+        "overview": "La relation ouverte d'un jeune couple séduisant est tendue jusqu'au point de rupture lorsque chaque partenaire tombe amoureux d'autres personnes.",
+        "release_date": "2008-11-07",
+        "vote_average": 5.1,
+        "popularity": 3.301
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/2CeUEc1fHuWR2yYiRMPUGXIIowR.jpg",
+        "title": "Life : Origine Inconnue",
+        "genre_ids": [
+            27,
+            878,
+            9648,
+            53
+        ],
+        "overview": "À bord de la Station Spatiale Internationale, les six membres d’équipage font l’une des plus importantes découvertes de l’histoire de l’humanité : la toute première preuve d’une vie extraterrestre sur Mars. Alors qu’ils approfondissent leurs recherches, leurs expériences vont avoir des conséquences inattendues, et la forme de vie révélée va s’avérer bien plus intelligente que ce qu’ils pensaient…",
+        "release_date": "2017-03-22",
+        "vote_average": 6.442,
+        "popularity": 54.404
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/omC5gd03AHx9lRt12vJzAseemyA.jpg",
+        "title": "Lost",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "overview": "Trapped in a maze of endless desert highways, bound by a vital deadline, and pursued by an unseen menace....Jeremy Stanton is about to take the longest ride of his life. He will learn that when you reach the crossroads of life...you must be careful which way you turn.",
+        "release_date": "2004-10-05",
+        "vote_average": 5.4,
+        "popularity": 5.097
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/sHFg7bP4N2kihqvB2fkv8nOEW6H.jpg",
+        "title": "Folle des hommes",
+        "genre_ids": [
+            14,
+            18,
+            35,
+            10749
+        ],
+        "overview": "La sirène Miranda est de retour, tout comme l'infirmière Carey ! Alors qu'elle nageait avec son amie la sirène Berengaria, elle rencontre son sosie, Caroline, une maîtresse d'école qui prenait des vacances sur la côte. Elles décident d'échanger leur place, en faisant croire que Caroline a subit un accident. Elle rencontre son fiancé Ronald Baker, mais décide de chercher un bien meilleur partie.",
+        "release_date": "1954-11-16",
+        "vote_average": 6.1,
+        "popularity": 3.21
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/yMWMYVgeOT02XyTyH402pE8cUsm.jpg",
+        "title": "Medium",
+        "genre_ids": [
+            27,
+            9648,
+            53
+        ],
+        "overview": "Story of four people in Sopot in 1933, mysteriously brought together to an old villa to reenact a murder ritual that took place 36 years earlier.",
+        "release_date": "1985-10-03",
+        "vote_average": 5.667,
+        "popularity": 6.39
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/8TPbUzYfZ1CNpmLNbTW0i95iMC1.jpg",
+        "title": "Les dessous de Melrose Place",
+        "genre_ids": [
+            18,
+            10770
+        ],
+        "overview": "Tout ce que vous avez toujours voulu savoir sur Melrose Place sans jamais oser le demander : les secrets de tournage de la célèbre série des années 90, les conflits entre la production et les scénaristes, les idylles entre les comédiens, les aspirations, les déceptions... Voici comment fiction et réalité s’entrecroisent et comment, même derrière la caméra, il y a parfois des surprises et des rebondissements !",
+        "release_date": "2015-10-10",
+        "vote_average": 6.7,
+        "popularity": 2.055
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/tqwstYXYKtosbsIHMJdz3FOcCjs.jpg",
+        "title": "Mental",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "overview": "En devenant la nounou de cinq filles, une femme charismatique et casse-cou va transformer la vie d'une famille.",
+        "release_date": "2012-10-04",
+        "vote_average": 5.506,
+        "popularity": 6.326
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/mPnonpAZ44YAzlGrF3A9MRht7Pq.jpg",
+        "title": "Merlin",
+        "genre_ids": [
+            14,
+            28
+        ],
+        "overview": "A modern-day retelling of the Arthurian legend with the Lady of the Lake as a reporter and Pendragon as an evil businessman. Merlin's immortal apprentice is trying to protect a powerful sword forged by Merin from the clutches of Pendragon.",
+        "release_date": "1992-04-30",
+        "vote_average": 5.5,
+        "popularity": 1.868
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/6Eg6OfwghmSLVtt2sfGD5YOEFjI.jpg",
+        "title": "Moonlight",
+        "genre_ids": [
+            18
+        ],
+        "overview": "Après avoir grandi dans un quartier difficile de Miami, Chiron, un jeune homme tente de trouver sa place dans le monde. Moonlight évoque son parcours, de l’enfance à l’âge adulte.",
+        "release_date": "2016-10-21",
+        "vote_average": 7.375,
+        "popularity": 46.216
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/zaArjr6UVYl6Pzila7Ogsc9k0n5.jpg",
+        "title": "Creating the Characters",
+        "genre_ids": [
+            99
+        ],
+        "overview": "A featurette about the making of the show, ‘My Name is Earl’, featured on the Season 3 Home Release.",
+        "release_date": "2008-09-30",
+        "vote_average": 10.0,
+        "popularity": 1.201
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/7TLuF45IJzFaaDsL2VXXoGZeDv7.jpg",
+        "title": "NCISverse: The First 1,000",
+        "genre_ids": [
+            99,
+            10770
+        ],
+        "overview": "Kevin Frazier hosts a celebration of the \"NCIS\" franchise, including exclusive interviews with cast members and guest stars; new details about the origins of \"NCIS\"; a behind-the-scenes look at the making of the franchise's 1,000th episode.",
+        "release_date": "2024-04-08",
+        "vote_average": 9.0,
+        "popularity": 3.266
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/qbgtfCUxC2VkIfPBuVi27ISQMGR.jpg",
+        "title": "Nip and Tuck",
+        "genre_ids": [
+            35
+        ],
+        "overview": "Billy Bevan, Harry Gribbon, Kewpie Morgan and their dog engage in a poker game.",
+        "release_date": "1923-08-11",
+        "vote_average": 0.0,
+        "popularity": 0.359
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/uZkKgoJ46rFfIokWt5H8EzINZzC.jpg",
+        "title": "One Tree Hill: Always & Forever",
+        "genre_ids": [],
+        "overview": "Commentary by the cast members on their time filming the TV show One Tree Hill",
+        "release_date": "",
+        "vote_average": 0.0,
+        "popularity": 0.5
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/pFhWEWzZNhiQBrLVJfcFWDGMP6C.jpg",
+        "title": "Twentieth Century Oz",
+        "genre_ids": [
+            10402,
+            14,
+            35
+        ],
+        "overview": "Dorothy is a sixteen-year-old groupie riding with a rock band when, suddenly, the van is in a road accident, and she hits her head. She wakes up in a fantasy world as gritty and realistic as the one she came from and learns she killed a young thug in the process. A gay clothier called the Good Fairy gives her a pair of red shoes as a reward to help her see the last concert of the Wizard, an androgynous rock singer. She is pursed by the thug's brother who attempts to rape her on several occasions. She also meets a dumb surfer, a heartless mechanic, and a cowardly biker.",
+        "release_date": "1976-07-29",
+        "vote_average": 5.1,
+        "popularity": 1.3
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/xDXhiR6jy9AmoU5Jyx71PDws3Zg.jpg",
+        "title": "Painkiller Jane",
+        "genre_ids": [
+            28,
+            878,
+            10770
+        ],
+        "overview": "Dans un futur proche, où le terrorisme fait rage et où la situation économique et sociale est guère rejouissante, le gouvernement garde le secret sur l'existence des Neuros, des humains dont les gènes ont été modifiés, leur conférant des supers pouvoirs. Craignant les dérives d'individus capables de télékinésie ou télépathie, une organisation secrète est créée pour traquer ces spécimens. Jane Vasko intègre cette unité chargée de localiser et neutraliser les Neuros. La jeune femme ne tarde cependant pas à découvrir qu'elle est elle-même dotée d'une incroyable faculté à s'auto-régénérer, lui permettant de guérir rapidement à des blessures.",
+        "release_date": "2005-12-10",
+        "vote_average": 4.9,
+        "popularity": 2.451
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/slBNiZjJFpA8VCvAdD0sz2Wsu34.jpg",
+        "title": "Primeval",
+        "genre_ids": [
+            12,
+            27,
+            28
+        ],
+        "overview": "Aux confins de la jungle africaine, un énorme crocodile mangeur d'hommes menace constamment la vie des tribus locales. En apprenant son existence, une équipe de reporters américains décide d'aller filmer cette terrifiante créature, et de la capturer vivante. Mais le producteur Tim Freeman, le caméraman Steven Johnson et leur équipe n'ont aucune idée de ce à quoi ils s'attaquent... Au coeur d'un pays ravagé par la guerre civile, le saurien s'est habitué au goût de la chair humaine, et il est devenu à présent un tueur incroyablement rusé. Traqués à la fois par les hommes et par l'animal, bien déterminés à les avoir, Tim et son équipe s'engagent dans une aventure beaucoup plus dangereuse qu'ils ne le pensaient...",
+        "release_date": "2007-01-12",
+        "vote_average": 6.058,
+        "popularity": 21.184
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/jZRs7TEwsPnNMKGJs312uAg2lyo.jpg",
+        "title": "Prison Break: The Final Break",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ],
+        "overview": "Quand le général Krantz, ancien chef de l'organisation défaite appelée Le Cartel est en prison avec T-Bag, et apprend que Sara Tancredi se retrouve derrière les barreaux, elle-aussi, pour meurtre, il saute sur l'occasion et projette de la tuer. Emprisonnée, elle est enceinte, et inquiète pour son bébé… Michael Scofield tentera de sauver Sara dans cette ultime trame qui conclut la série. Pour ce faire, il se fait aider par ses anciens complices et amis : Lincoln Burrows, Fernando Sucre et Alexander Mahone.\r Après la saison 3, avant la saison 4",
+        "release_date": "2009-09-10",
+        "vote_average": 7.502,
+        "popularity": 54.188
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/u98HzLZkYblqL31j1lcT0zvI4Q9.jpg",
+        "title": "Private Practice",
+        "genre_ids": [
+            18,
+            10770
+        ],
+        "overview": "Why does Sylvia Payne, with her successful husband and luxurious home, get in such a flap about her daughter's schoolfriend coming to visit?",
+        "release_date": "1973-11-22",
+        "vote_average": 0.0,
+        "popularity": 0.217
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/lzF8b44dAvXFagQnB1UZa2AF87q.jpg",
+        "title": "Psychose",
+        "genre_ids": [
+            27,
+            53,
+            9648
+        ],
+        "overview": "Marion Crane en a assez de ne pouvoir mener sa vie comme elle l'entend. Son travail ne la passionne plus, son amant ne peut l'épouser car il doit verser une énorme pension alimentaire le laissant sans le sou… Mais un beau jour, son patron lui demande de déposer 40 000 dollars à la banque. La tentation est trop grande, et Marion s'enfuit avec l'argent. Très vite la panique commence à se faire sentir. Partagée entre l'angoisse de se faire prendre et l'excitation de mener une nouvelle vie, Marion roule vers une destination qu'elle n'atteindra jamais. La pluie est battante, la jeune femme s'arrête près d'un motel, tenu par un sympathique gérant nommé Norman Bates, mais qui doit supporter le caractère possessif de sa mère. Après un copieux repas avec Norman, Marion prend toutes ses précautions afin de dissimuler l'argent. Pour se délasser de cette journée, elle prend une douche…",
+        "release_date": "1960-06-22",
+        "vote_average": 8.4,
+        "popularity": 51.526
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/o7neYBw0vlaIj383GdaQyahODdl.jpg",
+        "title": "Pushing Up Daisies",
+        "genre_ids": [
+            28,
+            35
+        ],
+        "overview": "After pulling a daring, if rather strange, bank heist while dressed as nuns, half of a four-member gang gets arrested and thrown in jail. While they're working on the chain gang, their partners in crime drive up with guns blazing and spring them. With everyone free, the leader of the gang announces that he's got a plan for another score that will be guaranteed to give them the notoriety they crave.",
+        "release_date": "1973-11-21",
+        "vote_average": 0.0,
+        "popularity": 0.604
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/xDgmCasmrbzPDyJO4Ngg01YsIIv.jpg",
+        "title": "Warriors of the rainbow",
+        "genre_ids": [
+            18,
+            28,
+            36
+        ],
+        "overview": "1930. Dans les montagnes de Taïwan, Mouna Rudo, un guerrier de la tribu aborigène Seediq, organise la rébellion de son peuple contre l'occupant japonais. Les 300 hommes de Rudo, armés de vieux pistolets, de lances et d'armes rudimentaires, vont devoir affronter une armée de 3 000 hommes afin de défendre leur terre, leur dignité et leur honneur...",
+        "release_date": "2011-09-09",
+        "vote_average": 7.3,
+        "popularity": 10.556
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/uQqa4u97MnObh3OdLOOpfpxtAfE.jpg",
+        "title": "Last chance hotel",
+        "genre_ids": [
+            878,
+            80,
+            27
+        ],
+        "overview": "Une jeune et séduisante autostoppeuse se retrouve dans une ville étrange hantée par Le Faucheur, un être surnaturel vengeur. Elle doit alors s'allier à de dangereux criminels pour survivre.",
+        "release_date": "2014-10-06",
+        "vote_average": 5.576,
+        "popularity": 7.242
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/tSls6dSMuXz7AHjDuuFvRaNbxHx.jpg",
+        "title": "Robin des Bois",
+        "genre_ids": [
+            12,
+            28,
+            53,
+            14
+        ],
+        "overview": "Récit des débuts de Robin des Bois et de la formation du gang de Sherwood. Robin de Loxley, combattant aguerri revenu des croisades, et un chef maure prennent la tête d’une audacieuse révolte contre la corruption des institutions.",
+        "release_date": "2018-11-03",
+        "vote_average": 5.906,
+        "popularity": 28.46
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/gx2ENSap1D4nbjcz7cLLAs4S3fy.jpg",
+        "title": "Room in Rome",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "overview": "Deux étrangères, une Russe, une Espagnole, se rencontrent par hasard dans un hôtel de Rome. Elles ont une nuit pour faire connaissance...",
+        "release_date": "2010-05-07",
+        "vote_average": 6.4,
+        "popularity": 110.266
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/kvYby59qMpTa6JeiDPaykUski34.jpg",
+        "title": "Soumission",
+        "genre_ids": [
+            18,
+            53
+        ],
+        "overview": "Le déjà richissime et séduisant Hal se prépare à hériter de l'argent ainsi que du poste de PDG d'une grande entreprise de son père après le décès de ce dernier. Pour cela, il choisit de mettre fin une bonne fois pour toutes à sa relation de domination avec la belle Rebecca, afin de ne pas risquer que ce secret se sache. Cependant, et pour une raison mystérieuse, Rebecca ne veut pas le laisser la quitter.",
+        "release_date": "2023-04-06",
+        "vote_average": 6.1,
+        "popularity": 27.978
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/7TwNpOwwsKAE8m2HK2ZRAC4KuMC.jpg",
+        "title": "Michael Akadiri: No Scrubs",
+        "genre_ids": [
+            35
+        ],
+        "overview": "This \"consistently funny, routinely dark show\" (Scotsman) sees the \"supremely talented and likeable\" (Metro) Michael traverse the challenges of life inside and out of the NHS, as he ponders if he's a scrub, when he's wearing no scrubs.",
+        "release_date": "2023-07-09",
+        "vote_average": 0.0,
+        "popularity": 0.047
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/y5FnJXig3M4PSdjYG1kNfoZgSP6.jpg",
+        "title": "Sex and the city - Le film",
+        "genre_ids": [
+            35,
+            18,
+            10749
+        ],
+        "overview": "Quatre ans ont passé... Carrie, Samantha, Charlotte et Miranda vivent toujours à New York et sont restées d'inséparables amies. Même si leurs folles années sont derrière elles, les quatre copines de \"Sex and the City\" continuent de parler haut et fort de ce qui les tracasse : les relations amoureuses. Carrière, amour, réussite, maternité, sexe ou encore engagement... toutes ont vécu une évolution capitale. Carrie vit enfin sa love story aux côtés de Mr Big, Charlotte élève sa fille avec son cher Harry, Miranda jongle entre Brady, Steve et sa carrière. Quant à Samantha, elle est toujours en couple avec le beau Smith. Mais, à New-York, c'est toujours lorsque tout va bien qu'un orage éclate...",
+        "release_date": "2008-05-12",
+        "vote_average": 6.6,
+        "popularity": 37.042
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/1b5ZrBI48xbAVmCbNNhvFXz474y.jpg",
+        "title": "Manorama Six Feet Under",
+        "genre_ids": [
+            53,
+            80,
+            9648,
+            18
+        ],
+        "overview": "Satyaveer est ingénieur, mais également le fier auteur d'un polar sans succès. Après avoir été suspendu pour une suspicion de pot de vin, il est approché par Manorama, une femme qui soupçonne son mari d'infidélité.",
+        "release_date": "2007-09-21",
+        "vote_average": 6.5,
+        "popularity": 4.979
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/gsOEdXflRs5WVXpYLc34Z6RwucM.jpg",
+        "title": "Skins",
+        "genre_ids": [
+            16
+        ],
+        "overview": "With the 3D animation, this short film try to explain the concept of race, diversity and inclusivity in all aspects of society because the universe has only one border... it is called humanity.",
+        "release_date": "2024-07-26",
+        "vote_average": 0.0,
+        "popularity": 1.562
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/Ab2GztrIkIvUvJWuxtpwAkN93Td.jpg",
+        "title": "Smallville",
+        "genre_ids": [
+            18,
+            28,
+            878
+        ],
+        "overview": "Inside the idyllic community of Smallville, the intertwined destinies of Clark Kent, Lana Lang, and Lex Luthor begin to take shape while an imminent danger emerges: a high-school prank has spawned a vengeful villain who has acquired super powers of his own. (This standalone version of the series pilot combines footage with the second episode, newly formatted in 1.78 widescreen, and has an alternate closing produced for the Canadian DVD market.)",
+        "release_date": "2002-06-25",
+        "vote_average": 7.765,
+        "popularity": 11.175
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/jaqUSaE7ztcaLSa2OuN8ApSvIRR.jpg",
+        "title": "Official Sons Of Anarchy Parody",
+        "genre_ids": [],
+        "overview": "SAMCRO est sur le point d'être entièrement exposé ! Mais pas par l'ATF... La parodie officielle de Sons of Anarchy de Diabolic met en scène le gardien de la paix du gang, Jax, au studio porno local, répondant aux plaintes de l'école voisine de cris forts et obscènes. Mais quand Jax arrive, le chef de la police se fait déjà huiler son bâton de nuit par une nouvelle starlette, laissant Lyla, la fille d'Opie, à la recherche d'une protection virile, que Jax est plus qu'heureux de fournir. Pendant ce temps, Gemma se met à genoux pour soulager le stress de Clay à propos de toute la bande de motards qui participe à une véritable course caritative, tandis que l'agent Stahl a trouvé un tabouret à Tig, qui ne portera un fil que s'il peut lancer lui-même une enquête sur la chatte ! Si vous pensiez que vous saviez tout ce qui se passe dans Charming California, détrompez-vous !",
+        "release_date": "2011-09-30",
+        "vote_average": 0.0,
+        "popularity": 0.0
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/k80LaWllraUYrcSCpxB3eYv7Gxb.jpg",
+        "title": "South Park, le film",
+        "genre_ids": [
+            16,
+            35
+        ],
+        "overview": "Quatre garnements ont réussi a assister a la projection d'un film canadien de Terance et Phillip interdit au moins de dix-huit ans. Tétanisés de bonheur et transportes au septième ciel, Stan, Kyle, Kenny et Cartman n'ont plus qu'une idée: transmettre leur savoir a leurs copines et copains verts d'envie. Bientôt les enseignants sont impuissants face a l'anarchie qui s'installe. Alertées, les mères s'unissent pour que leurs rejetons se calment mais par leurs méthodes expéditives provoquent la guerre entre le gouvernement canadien et la Maison-Blanche.",
+        "release_date": "1999-06-30",
+        "vote_average": 7.3,
+        "popularity": 38.701
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/hsXFJyNHzbR53NeVjpnHJb3EOUR.jpg",
+        "title": "Scrat: Spaced Out",
+        "genre_ids": [
+            10751,
+            878,
+            35,
+            16
+        ],
+        "overview": "Scrat, le célèbre écureuil à dents de sabre part pour une aventure dans l'espace à fin de sauver son gland et ne pas être capturé par les extraterrestres.",
+        "release_date": "2016-10-11",
+        "vote_average": 6.2,
+        "popularity": 9.037
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/4jAJZIc6IfBAZHlDEsX8Vl0cYeg.jpg",
+        "title": "Stargate Atlantis: Fans' Choice",
+        "genre_ids": [
+            28,
+            12,
+            878,
+            18
+        ],
+        "overview": "The exhilarating, feature-length pilot episode, \"Rising\", sends a brilliant team of scientists through a Stargate to the legendary city of Atlantis. But not only is the city about to be engulfed by ocean water, an enemy appears who threatens everyone in the Pegasus Galaxy! And in the white-knuckle, lengthened \"Enemy at the Gate\" from Season 5, as the team tries to disempower Wraith hive ships, the Wraith discover coordinates that will allow them to destroy Earth!",
+        "release_date": "2009-08-04",
+        "vote_average": 9.0,
+        "popularity": 1.952
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/3e2gPmE5KDPFpWjDkziOyeho5SD.jpg",
+        "title": "Stargate SG-1 : True Science",
+        "genre_ids": [
+            878,
+            99,
+            10770
+        ],
+        "overview": "In this documentary, Amanda Tapping, known as Samantha Carter from SG-1, shows the scientific background of the successful science fiction series \"Stargate SG-1\" and lets us take a look behind the scenes.",
+        "release_date": "2006-01-03",
+        "vote_average": 7.7,
+        "popularity": 5.209
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/21hap095aOsHNmPUg6RZCCxNSNv.jpg",
+        "title": "Supernatural",
+        "genre_ids": [
+            9648,
+            53,
+            27
+        ],
+        "overview": "After her brother's death, Roma Courtney becomes the heiress to his fortune. When fake psychic Paul Bavian claims to have a message from Roma's dead brother, he coaxes Roma into participating in a séance. Although Roma's fiancé, Grant, first believes the séance is nothing more than a scam, he eventually realizes that the vengeful spirit of an executed murderer has possessed Roma's body.",
+        "release_date": "1933-04-21",
+        "vote_average": 6.0,
+        "popularity": 5.134
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/abs7paG2c9CdXlySGROXyScPhxk.jpg",
+        "title": "Geki Iki 113 Times! - Convulsions 4400 Times! - Iki Tide 1500cc! - Aka Asuka Eros Awakening First Big / Convulsions / Convulsions Special",
+        "genre_ids": [],
+        "overview": "\"Aka Asuka\" has completely awakened to Eros! - Last time, I experienced the S1 rich sex series called \"Mixed Body Fluids\", and this is the 4th work. - I got used to the intense sex of AV, and my body became more sensitive whether the tension gradually eased! - Abstinence, aphrodisiac, intense piston ... Abnormal reaction with sex that explodes sexual feeling! - J cup convulsions bicubic cum that seems to break reason! - Her face, boobs, and finally her sexual feeling became completely erotic. - This work is really the highest peak AV! - !!",
+        "release_date": "2021-01-07",
+        "vote_average": 0.0,
+        "popularity": 0.0
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "title": "This Isn't...The Big Bang Theory... It's A XXX Spoof!",
+        "genre_ids": [],
+        "overview": "Scientists seem to think our whole universe began billions of years ago with a huge Big Bang. That's a theory. But here's a hard fact. The banging you're going to see in this massive, stellar explosion of glaring, nonstop video eroticism will put your dick in orbit! Think there are a lot of stars out there? Wait until you see the galaxies of hard cocks these little sluts get to enjoy! This is one XXX Big Bang that even those horny scientists will want to get in on!",
+        "release_date": "2011-11-22",
+        "vote_average": 0.0,
+        "popularity": 0.0
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "title": "Kill Point",
+        "genre_ids": [],
+        "overview": "A police story that carefully depicts the progress of investigations into criminal organizations. Crime tycoon Marks steals a large amount of weapons from the army and sells them to town thugs. Lieutenant Long, while being targeted for his life by Marks' subordinate Nighthawks, gradually hunts him down with a steady investigation. However, the Nighthawks give up on Marks, who has lost his escape and is confused, and kills him. Long is chased by the Nighthawks and is in a desperate situation. However, a dying Marks appears and kills the Nighthawks .",
+        "release_date": "",
+        "vote_average": 0.0,
+        "popularity": 0.001
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "title": "Inside the Lost Room",
+        "genre_ids": [
+            99
+        ],
+        "overview": "Making of 'The Lost Room'",
+        "release_date": "2007-04-03",
+        "vote_average": 4.0,
+        "popularity": 0.931
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/rlQs3xlzmDmNW4MyykJuJ1kjb4t.jpg",
+        "title": "The Mentalist",
+        "genre_ids": [
+            28
+        ],
+        "overview": "",
+        "release_date": "2011-11-10",
+        "vote_average": 7.8,
+        "popularity": 0.652
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/csI2gJk8yl38j0QVycovL1DWre0.jpg",
+        "title": "The Nine",
+        "genre_ids": [
+            99
+        ],
+        "overview": "There is nothing left of the American dream on the Nine--a solemn destination, a resting place for those who have relinquished the dream. Modesto is a city that lies in California's Central Valley, a region devastated during America's Great Depression. Modesto's notorious South Ninth Street (\"the Nine\") is a no man's land where the rules of polite society do not apply. The people living along the Nine form a ravaged micro community whose Darwinian existence is a day to day hustle, and survival is by any means necessary.",
+        "release_date": "2016-10-11",
+        "vote_average": 4.3,
+        "popularity": 0.568
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/3gY1KWN6pdrxnFvBSUqK9ihqs0y.jpg",
+        "title": "The Water Is Finally Blue: The Untold Story of Robert Altman's O.C. and Stiggs",
+        "genre_ids": [
+            99
+        ],
+        "overview": "An in-depth oral history of the production and development history of Robert Altman's \"O.C. and Stiggs,\" featuring commentaries from the film's cast and crew.",
+        "release_date": "2023-07-17",
+        "vote_average": 0.0,
+        "popularity": 2.119
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/2zTtw8VNZtLrcUtHiiEzADkUKkm.jpg",
+        "title": "Freddie Mercury - The Great Pretender",
+        "genre_ids": [
+            10402,
+            99
+        ],
+        "overview": "Né à Zanzibar en 1946 au carrefour de plusieurs cultures, Freddie Mercury s'installe en 1964 en Angleterre. Il y découvre le rock, Presley, Hendrix et les Beatles, et joue dans plusieurs groupes avant de connaître le succès avec Queen. Devenu dans les années 80 une des icônes de l'hédonisme gay à New York, il se livre à moult excès. Passionné de musique et de danse classiques, il réalise un rêve fou en enregistrant en 1987 l'album «Barcelona» avec la cantatrice Montserrat Caballé. Atteint du sida, il tarde à l'annoncer et meurt en novembre 1991. Ce portrait mêle extraits de concerts, interviews, archives inédites et témoignages de ses anciens amis et collègues.",
+        "release_date": "2012-09-25",
+        "vote_average": 7.341,
+        "popularity": 5.945
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/dkLplIwss7Jleh82NawyGyFNMgJ.jpg",
+        "title": "Superman II : The Richard Donner Cut",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "overview": "Le général Zod et ses sbires, Ursa et Non, tentent de voler un puissant cristal sur Krypton. Ayant échoué dans leur tentative, ils sont jugés par Jor-El qui les condamne à être emprisonnés dans la Zone Fantôme.  Des années après l'explosion de Krypton, Kal-El, le fils de Jor-El, veille sur la Terre et la préserve de tous les dangers sous le nom de Superman. Alors qu'il vient de sauver la Tour Eiffel de terroristes ayant placé une bombe à hydrogène, il jette cette dernière dans l'espace. L'explosion brise la porte de la Zone Fantôme, libérant Zod et ses acolytes, qui décident de se rendre sur Terre pour semer le chaos. Lex Luthor s'enfuit de prison et se rallie au général Kryptonien. Au même moment, Superman choisit de renoncer à ses pouvoirs par amour pour Lois Lane.",
+        "release_date": "2006-11-02",
+        "vote_average": 7.3,
+        "popularity": 18.173
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/iXFMQhghwjUjlJazqOPD281xG4d.jpg",
+        "title": "L'insigne de la honte",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "overview": "Sous la pression de ses collegues d'un commissariat de Los Angeles, un policier noir tout juste sorti de l'école de police consent a mentir sur les circonstances d'un délit dont il a été temoin. Cependant, torturé par sa conscience, il decide de faire équipe avec Deborah, la seule femme officier de son unité, afin de faire éclater au grand jour la corruption qui règne au sein du commissariat.",
+        "release_date": "1994-09-16",
+        "vote_average": 4.9,
+        "popularity": 6.511
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/zyXDDuWmZsGKrqvD1fPYzCtRUw5.jpg",
+        "title": "The Real Sopranos",
+        "genre_ids": [
+            99
+        ],
+        "overview": "This movie shows the connections between the TV series 'The Sopranos' and a real-life New Jersey Mob. The story of the rise and fall of New Jersey’s DeCavalcante crime family",
+        "release_date": "2006-04-26",
+        "vote_average": 1.0,
+        "popularity": 1.299
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/zRC3ABIrGFp0PoUpqcsW4sxxO98.jpg",
+        "title": "The Game of Crowns: The Tudors",
+        "genre_ids": [
+            99
+        ],
+        "overview": "From the real life stories that inspired Game of Thrones, delve into a world of dynasties, blood feuds and civil war, where brother battles brother, uncle kills nephew, and cousin executes cousin in the race to decide who wears the bloodstained crown of England. The Tudor dynasty spans little over a century, but it is filled with big personalities and even bigger battles for power and influence. Trace the Tudor bloodline from Henry VII to Elizabeth I in a family drama like no other.",
+        "release_date": "2023-03-28",
+        "vote_average": 7.0,
+        "popularity": 2.084
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/ft6o3ktpcuzSdd9MyUuXQdSOYaY.jpg",
+        "title": "The Vampire Diaries: A Darker Truth",
+        "genre_ids": [
+            14,
+            18,
+            27
+        ],
+        "overview": "Follows the investigation of Jason Harris into the murder of his sister Joanne. He follows Stefan Salvatore from NYC to Mystic Falls, believing him to be a vampire and his sister's killer.",
+        "release_date": "2009-08-25",
+        "vote_average": 8.857,
+        "popularity": 9.505
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/kEvIA6HDChfqpNwi2sKLt8ADtvi.jpg",
+        "title": "The Wire",
+        "genre_ids": [
+            16
+        ],
+        "overview": "A man discovers a wire coming from his back and follows said wire to an outlet where it's plugged into.",
+        "release_date": "1996-10-20",
+        "vote_average": 10.0,
+        "popularity": 0.874
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/g1kjYwD4PW3C3Fd5FXeuSiUIqI6.jpg",
+        "title": "Traveler",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "overview": "When Blakes invention successfully transports his girlfriend across the universe, there's only one problem: when she returns, she's being chased.",
+        "release_date": "2015-12-05",
+        "vote_average": 5.8,
+        "popularity": 4.43
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/3zLmhRZXjhh3IBkdCOK8psANays.jpg",
+        "title": "True Blood",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "overview": "Teenager Ray Trueblood is wrongfully accused of murdering a police officer after his fellow gang member Billy Masters does the deed. Hoping to elude the police, he flees Brooklyn, NY and joins the U.S. Marines. Returning 10 years later, Trueblood is dismayed to learn that his younger brother Donny is now running with a gang led by Masters. Trueblood soon finds himself depending on his military training & experience to protect his friends and family from the ruthless Masters.",
+        "release_date": "1989-04-28",
+        "vote_average": 5.5,
+        "popularity": 4.654
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/60T0pNdVSNn0qzmLz59shxNEv74.jpg",
+        "title": "This Is Definitely Not Ugly Betty",
+        "genre_ids": [],
+        "overview": "Loosely based on the pilot episode of the hit TV show, This Is Definitely Not Ugly Betty: A XXX Parody starts at the beginning. Christian is the heir to a magazine empire, but his taste for hot secretaries distract him from his duties. Cue Ugly Betty. Christian's father hires the frumpy girl to help keep his son's focus on the fashion magazine. Long days working together reveal Betty to be a diamond in the rough with a very big secret, which drives Christian wild. When Betty invites Morgan Bailey and her other special friends to help with a new project, the magazine becomes a playground of debauchery.",
+        "release_date": "2016-03-16",
+        "vote_average": 0.0,
+        "popularity": 0.0
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "title": "Venom : The Last Dance",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "overview": "Eddie et Venom sont en cavale. Chacun est traqué par ses semblables et alors que l'étau se resserre, le duo doit prendre une décision dévastatrice qui annonce la conclusion des aventures d'Eddie et de Venom.",
+        "release_date": "2024-10-22",
+        "vote_average": 6.774,
+        "popularity": 1217.213
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/1qUhPDaNalxl7CpVqcbjm09fZz0.jpg",
+        "title": "Veronica Mars",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "overview": "Après dix années passées à New York, où elle est devenue avocate, la malicieuse et débrouillarde Veronica Mars revient à Neptune, sa ville natale californienne, pour reprendre ses activités de détective privée. La jeune et charmante enquêtrice a en effet accepté de venir au secours de son ex-petit ami, Logan Echolls, impliqué dans une affaire de meurtre. Tandis qu'elle retrouve également sur place ses amis Wallace et Mac pour fêter la première décennie marquant la fin du lycée, elle découvre que les enjeux de sa nouvelle enquête sont liés au passé qu'elle avait fui...",
+        "release_date": "2014-03-13",
+        "vote_average": 6.62,
+        "popularity": 12.931
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/1GVWnb769243POxPy3f9OiyWdK5.jpg",
+        "title": "Comme un lion en cage",
+        "genre_ids": [
+            18
+        ],
+        "overview": "Un condamné à perpétuité à la prison de San Quentin écrit une pièce qui attire la curiosité d'un journaliste.",
+        "release_date": "1987-10-16",
+        "vote_average": 5.2,
+        "popularity": 7.942
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/ueQqFcj093gptJfaFWaK91DUMO1.jpg",
+        "title": "Sherlock Holmes et le Vampire de Whitechapel",
+        "genre_ids": [
+            53,
+            9648,
+            80,
+            10770
+        ],
+        "overview": "Un moine de la confrérie du frère Marstroke a été victime d'un meurtre abject. Les lieux du crime ? Whitechapel, le quartier de Londres tristement célèbre par les forfaits récents de Jack l'Eventreur. Quelqu'un ou quelque chose cherche à salir de nouveau de rouge ses ruelles sombres. Holmes, le célèbre détective anglais, se lance dans ce nouveau défi...",
+        "release_date": "2002-10-27",
+        "vote_average": 6.0,
+        "popularity": 4.985
+    },
+    {
+        "poster": "https://image.tmdb.org/t/p/w500/mn1jd14a6q7DWxtO69ZnkXE9ItL.jpg",
+        "title": "The X-Files : le film",
+        "genre_ids": [
+            9648,
+            878,
+            53
+        ],
+        "overview": "Les inénarrables aventures de l'agent Fox Mulder et de sa coéquipière Dana Scully adaptées ici pour le grand écran. Tout commence par la découverte, au nord du Texas, d'ossements préhistoriques dans une grotte par un jeune garçon. A leur contact un mystérieux parasite pénètre sa peau et envahit son organisme. Le corps de l'enfant est évacué par un certain Bronschweig avant l'arrivée des secours. Mulder et Scully vont bientôt découvrir un projet de guerre bactériologique par la propagation d'un virus. Le nord du Texas servirait de champ d'expérimentation...",
+        "release_date": "1998-06-19",
+        "vote_average": 6.9,
+        "popularity": 26.248
+    }
+]
